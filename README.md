@@ -102,7 +102,7 @@ Continuously updated and maintained by the cybersecurity community, including co
 Enables collective knowledge sharing and collaboration in the fight against cyber threats.
 In summary, the MITRE ATT&CK framework serves as a valuable resource for understanding, categorizing, and defending against adversary behaviors, providing a common language and framework for cybersecurity professionals to analyze and mitigate cyber threats effectively.
 
-![bc6f9f65f8237e3157ea6882834e5335-1743094467](https://github.com/sharpleynate/Kill-Chain-MITRE-ATTACK-Atomic-Red-Team/assets/114451775/b84465cd-88d0-4904-ade8-952c8c83c7d2)
+![splunk](https://github.com/sharpleynate/Kill-Chain-MITRE-ATTACK-Atomic-Red-Team/assets/114451775/f0edca6e-77a1-4fd6-a45a-b220fada9bc3)
 
 Splunk is a leading platform for collecting, indexing, and analyzing machine-generated data in real-time. Here's an overview:
 
