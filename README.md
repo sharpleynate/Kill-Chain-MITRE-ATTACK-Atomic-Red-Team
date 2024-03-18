@@ -7,7 +7,7 @@ We'll be setting up two hosts: one to run Atomic Red Team tests and another to f
 ![Untitled+design-Dec-02-2020-09-35-04-49-PM-1256049333](https://github.com/sharpleynate/Kill-Chain-MITRE-ATTACK-Atomic-Red-Team/assets/114451775/70174956-94d8-4261-896e-4b6833a3603a)
 
 
-**Understanding the Lockheed Martin Cyber Kill Chain Stages:**
+__Understanding the Lockheed Martin Cyber Kill Chain Stages:__
 
 **Reconnaissance:** This stage involves gathering information about potential targets, such as identifying vulnerabilities, network configurations, and employee roles within the target organization.
 
@@ -25,7 +25,7 @@ We'll be setting up two hosts: one to run Atomic Red Team tests and another to f
 
 ![Tactics-techniques-and-procedures-in-cyber-security--3135260099](https://github.com/sharpleynate/Kill-Chain-MITRE-ATTACK-Atomic-Red-Team/assets/114451775/2a6fbc2f-63d8-43c3-a2dd-6892ddcaed29)
 
-**Understanding TTP:** 
+__Understanding TTP:__
 
 TTP stands for Tactics, Techniques, and Procedures. Here's a breakdown in bullet points with short summaries:
 
@@ -49,8 +49,7 @@ https://www.proofpoint.com/us/threat-reference/tactics-techniques-procedures-ttp
 
 <img width="1280" alt="AttckMatrices-734190819" src="https://github.com/sharpleynate/Kill-Chain-MITRE-ATTACK-Atomic-Red-Team/assets/114451775/e051337d-3ee6-4141-ab5f-f685007b2e8a">
 
-
-The MITRE ATT&CK framework is a comprehensive knowledge base of adversary tactics, techniques, and procedures (TTPs) that cybersecurity professionals use to understand, classify, and defend against cyber threats. Here's an overview in bullet points:
+__The MITRE ATT&CK framework is a comprehensive knowledge base of adversary tactics, techniques, and procedures (TTPs) that cybersecurity professionals use to understand, classify, and defend against cyber threats. Here's an overview in bullet points:__
 
 Adversary-Centric:
 
