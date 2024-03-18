@@ -47,3 +47,44 @@ In summary, TTPs provide a framework for understanding and categorizing the beha
 
 https://www.proofpoint.com/us/threat-reference/tactics-techniques-procedures-ttps
 
+<img width="1280" alt="AttckMatrices-734190819" src="https://github.com/sharpleynate/Kill-Chain-MITRE-ATTACK-Atomic-Red-Team/assets/114451775/e051337d-3ee6-4141-ab5f-f685007b2e8a">
+
+
+The MITRE ATT&CK framework is a comprehensive knowledge base of adversary tactics, techniques, and procedures (TTPs) that cybersecurity professionals use to understand, classify, and defend against cyber threats. Here's an overview in bullet points:
+
+Adversary-Centric:
+
+Focuses on understanding the behavior and actions of adversaries rather than just the vulnerabilities or malware they use.
+Tactics:
+
+Organized into categories representing the goals of attackers, such as Initial Access, Execution, Persistence, and so forth.
+Describes the overarching objectives attackers seek to achieve during a cyberattack.
+Techniques:
+
+Specific methods or actions employed by adversaries to accomplish their objectives within each tactic.
+Provides detailed insights into how attackers execute their strategies, including tools, procedures, and behaviors.
+Sub-Techniques:
+
+Further refinement of techniques, representing specific variations or nuances in adversary behavior.
+Allows for more granular understanding and classification of attacker tactics.
+Data Sources:
+
+Enumerates the types of data sources and telemetry that can be collected to detect or analyze adversary behavior.
+Helps organizations identify relevant data sources for threat detection and monitoring.
+Detection:
+
+Provides guidance on how to detect and mitigate adversary tactics and techniques using security controls, tools, and analytics.
+Offers recommendations for building effective detection capabilities based on known adversary behaviors.
+Use Cases:
+
+Practical scenarios and examples illustrating how to apply the framework to real-world cybersecurity operations.
+Helps organizations translate the theoretical knowledge of ATT&CK into actionable defensive strategies.
+Mapping to Standards:
+
+Links ATT&CK techniques to other cybersecurity frameworks, standards, and controls, such as NIST Cybersecurity Framework or CIS Controls.
+Facilitates integration with existing security programs and frameworks.
+Community Collaboration:
+
+Continuously updated and maintained by the cybersecurity community, including contributions from industry experts, researchers, and practitioners.
+Enables collective knowledge sharing and collaboration in the fight against cyber threats.
+In summary, the MITRE ATT&CK framework serves as a valuable resource for understanding, categorizing, and defending against adversary behaviors, providing a common language and framework for cybersecurity professionals to analyze and mitigate cyber threats effectively.
