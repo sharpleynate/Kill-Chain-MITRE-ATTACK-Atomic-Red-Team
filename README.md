@@ -1,4 +1,4 @@
-![Screenshot 2024-03-18 025730](https://github.com/sharpleynate/Kill-Chain-MITRE-ATTACK-Atomic-Red-Team/assets/114451775/0e218ff1-df1b-481b-9529-229b7e28beb6)# Kill-Chain-MITRE-ATTACK-Atomic-Red-Team
+# Kill-Chain-MITRE-ATTACK-Atomic-Red-Team
 
 We'll be setting up two hosts: one to run Atomic Red Team tests and another to function as our Security Information and Event Management (SIEM) system. We'll then ingest the generated logs into the SIEM and analyze them to gain insights into our system's security.
 
