@@ -25,9 +25,9 @@ We'll be setting up two hosts: one to run Atomic Red Team tests and another to f
 
 **Understanding TTP:** 
 
-TTP stands for Tactics, Techniques, and Procedures. Here's a breakdown in bullet points with short summaries:
-
 ![Tactics-techniques-and-procedures-in-cyber-security--3135260099](https://github.com/sharpleynate/Kill-Chain-MITRE-ATTACK-Atomic-Red-Team/assets/114451775/2a6fbc2f-63d8-43c3-a2dd-6892ddcaed29)
+
+TTP stands for Tactics, Techniques, and Procedures. Here's a breakdown in bullet points with short summaries:
 
 **Tactics:**
 
